@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(220, 250, 250);
+}
+img{
+    width: 10%;
+    height: 10%;
+}
+hr{
+    width: 90%;
+    border-top: dotted rgb(206, 202, 202);
+}
+#form{
+    padding-left: 5%;
+}
